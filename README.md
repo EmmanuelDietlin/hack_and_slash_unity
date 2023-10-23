@@ -6,6 +6,9 @@ L'objectif était de réaliser un jeu de type Hack & Slash, dans un temps relati
 
 Il a été réalisé en collaboration avec deux autres étudiants.
 
+
+Le jeu peut être joué sur itch.io [ici](https://manudiet.itch.io/hack-slash).
+
 ------
 
 ## Outils
